@@ -13,7 +13,6 @@ A simple implementation of the classic Rock Paper Scissors game.
 ![UI](screenshots/play.png)
 ![UI](screenshots/result.png)
 
-## Getting Started
 
 ### Prerequisites
 
